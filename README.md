@@ -3,7 +3,7 @@
 This Project is built using API provided by Mahindra LYLF. This project consists of holidays of the year 2018.
 
 ## Programming language used
-- Swift
+- Swift 5
 
 ## Deployment Info
 - iOS 14.3
@@ -24,3 +24,7 @@ This Project is built using API provided by Mahindra LYLF. This project consists
 - fully functional app with app icon and splash screen.
 - Project is still work in progress.
 - App is functional, free and ready to use.
+
+## Note:
+- This domain has expired.
+- The provided API link dosen't work as per my knowledge.
